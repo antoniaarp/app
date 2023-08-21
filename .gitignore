@@ -13,6 +13,8 @@ backend/node_modules
 /build
 
 # misc
+backend/.env
+backend/requestrest
 .DS_Store
 .env.local
 .env.development.local
