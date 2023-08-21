@@ -1,0 +1,5 @@
+.navbar-logo {
+    max-width: 800px; /* Ajusta el ancho máximo del logo según tus necesidades */
+    height: 400;
+    margin-right: 60px; /* Agrega un margen a la derecha para separar el logo de otros elementos */
+  }
